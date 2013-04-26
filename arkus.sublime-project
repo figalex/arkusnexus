@@ -1,0 +1,11 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/carlos/Development/MindHUB/arkus",
+            "file_exclude_patterns": ["gitattributes","arkus.sublime-*"],
+            "folder_exclude_patterns": ["node_modules","test","dist",".tmp"]
+		}
+	]
+
+}

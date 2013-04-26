@@ -1,0 +1,1461 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ls",
+				"list-style"
+			],
+			[
+				"d",
+				"display"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Android",
+	"command_palette":
+	{
+		"height": 291.0,
+		"selected_items":
+		[
+			[
+				"andro",
+				"Build: Android GUI"
+			],
+			[
+				"debuin",
+				"Build: Android Debug Install"
+			],
+			[
+				"list",
+				"Build: Android List Devices"
+			],
+			[
+				"refre",
+				"Build: Android Refresh Devices"
+			],
+			[
+				"debg",
+				"Build: Android Debug Install"
+			],
+			[
+				"clea",
+				"Build: Clean Android Virtual Device (x86)"
+			],
+			[
+				"andcl",
+				"Build: Android Clean"
+			],
+			[
+				"archi",
+				"Build: iOS Archive"
+			],
+			[
+				"disbl",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"tags",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"cors",
+				"Build: CORS Enabled Chrome"
+			],
+			[
+				"archiv",
+				"Build: iOS Archive"
+			],
+			[
+				"cle",
+				"Build: Clean Android Virtual Device (x86)"
+			],
+			[
+				"builrun",
+				"Build: iOS Build & Run"
+			],
+			[
+				"cor",
+				"Build: CORS Enabled Chrome"
+			],
+			[
+				"buildrun",
+				"Build: iOS Build & Run"
+			],
+			[
+				"dislin",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"debugun",
+				"Build: Android Debug Uninstall"
+			],
+			[
+				"debugin",
+				"Build: Android Debug Install"
+			],
+			[
+				"clean",
+				"Build: Clean Android Virtual Device (x86)"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"removpa",
+				"Package Control: Remove Package"
+			],
+			[
+				"packre",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Add Repository"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"disabli",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"ios",
+				"Build: iOS Build & Run"
+			],
+			[
+				"",
+				"Build: Android GUI"
+			],
+			[
+				"emula",
+				"Build: iOS iPhone Emulator"
+			],
+			[
+				"emul",
+				"Build: iOS iPhone Emulator"
+			],
+			[
+				"iphone",
+				"Build: iOS iPhone Emulator"
+			],
+			[
+				"phone",
+				"Build: iOS iPhone Emulator"
+			],
+			[
+				"chrom",
+				"Build: CORS Enabled Chrome"
+			],
+			[
+				"chr",
+				"Build: CORS Enabled Chrome"
+			],
+			[
+				"buil",
+				"Build: Build"
+			],
+			[
+				"chrome",
+				"Build: CORS Enabled Chrome"
+			],
+			[
+				"debugins",
+				"Build: Android Debug Install"
+			],
+			[
+				"refres",
+				"Build: Android Refresh Devices"
+			],
+			[
+				"toggle",
+				"Toggle Comment"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"comment",
+				"Emmet: Toggle Comment"
+			],
+			[
+				"debuginstal",
+				"Build: Android Debug Install"
+			],
+			[
+				"wrap",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"disabel",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"bui",
+				"Build: iOS Build"
+			],
+			[
+				"adlis",
+				"Build: Android List Devices"
+			],
+			[
+				"android",
+				"Build: Android Clean"
+			],
+			[
+				"debugint",
+				"Build: Android Debug Install"
+			],
+			[
+				"debuunin",
+				"Build: Android Debug Uninstall"
+			],
+			[
+				"listde",
+				"Build: Android List Devices"
+			],
+			[
+				"disal",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"emmetog",
+				"Emmet: Toggle Comment"
+			],
+			[
+				"cmm",
+				"Emmet: Toggle Comment"
+			],
+			[
+				"disabl",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"dial",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"symb",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"debuint",
+				"Build: Android Debug Install"
+			],
+			[
+				"debuu",
+				"Build: Android Debug Uninstall"
+			],
+			[
+				"builru",
+				"Build: iOS Build & Run"
+			],
+			[
+				"debugunin",
+				"Build: Android Debug Uninstall"
+			],
+			[
+				"debug",
+				"Build: Android Debug Install"
+			],
+			[
+				"devi",
+				"Build: Android List Devices"
+			],
+			[
+				"debin",
+				"Build: Android Debug Install"
+			],
+			[
+				"deun",
+				"Build: Android Debug Uninstall"
+			],
+			[
+				"deins",
+				"Build: Android Debug Install"
+			],
+			[
+				"dein",
+				"Build: Android Debug Install"
+			],
+			[
+				"debunin",
+				"Build: Android Debug Uninstall"
+			],
+			[
+				"andclea",
+				"Build: Android Clean"
+			],
+			[
+				"refr",
+				"Build: Android Refresh Devices"
+			],
+			[
+				"devic",
+				"Build: Android List Devices"
+			],
+			[
+				"debins",
+				"Build: Android Debug Install"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"debuins",
+				"Build: Android Debug Install"
+			],
+			[
+				"uninstal",
+				"Build: Android Debug Uninstall"
+			],
+			[
+				"uninst",
+				"Build: Android Debug Uninstall"
+			],
+			[
+				"av",
+				"Build: Android Virtual Device (x86)"
+			],
+			[
+				"devices",
+				"Build: Android List Devices"
+			],
+			[
+				"disabll",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"builr",
+				"Build: iOS Build & Run"
+			],
+			[
+				"disablin",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"linter",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"emmcom",
+				"Emmet: Toggle Comment"
+			],
+			[
+				"comm",
+				"Emmet: Toggle Comment"
+			],
+			[
+				"iosb",
+				"Build: iOS Build & Run"
+			],
+			[
+				"clex",
+				"Build: Clean Android Virtual Device (x86)"
+			],
+			[
+				"androcl",
+				"Build: Android Clean"
+			],
+			[
+				"androidcl",
+				"Build: Android Clean"
+			],
+			[
+				"buiru",
+				"Build: iOS Build & Run"
+			],
+			[
+				"cleanx",
+				"Build: Clean Android Virtual Device (x86)"
+			],
+			[
+				"x86",
+				"Build: Android Virtual Device (x86)"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"modif",
+				"Modific: Show diff"
+			],
+			[
+				"mod",
+				"Modific: Show diff"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"removepa",
+				"Package Control: Remove Package"
+			],
+			[
+				"listpa",
+				"Package Control: List Packages"
+			],
+			[
+				"simul",
+				"Build: iOS iPhone Emulator"
+			],
+			[
+				"ctaa",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"cta",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"ctaall",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"c",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"ctagsfi",
+				"CTags: Show Symbols (file)"
+			],
+			[
+				"ctags",
+				"CTags: Show Symbols (file)"
+			],
+			[
+				"ctag",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"buildi",
+				"Build: iOS Build"
+			],
+			[
+				"uninsta",
+				"Build: Android Debug Uninstall"
+			],
+			[
+				"androidg",
+				"Build: Android GUI"
+			],
+			[
+				"vir",
+				"Build: Android Virtual Device (x86)"
+			],
+			[
+				"androg",
+				"Build: Android GUI"
+			],
+			[
+				"device",
+				"Build: Android List Devices"
+			],
+			[
+				"android vi",
+				"Build: Android Virtual Device"
+			],
+			[
+				"ipho",
+				"Build: iOS iPhone Emulator"
+			],
+			[
+				"ipadre",
+				"Build: iOS iPad Emulator (Retina)"
+			],
+			[
+				"phon",
+				"Build: iOS iPhone Emulator"
+			],
+			[
+				"ipad",
+				"Build: iOS iPad Emulator (Retina)"
+			],
+			[
+				"debu",
+				"Build: Android Debug Uninstall"
+			],
+			[
+				"emetog",
+				"Emmet: Toggle Comment"
+			],
+			[
+				"emme",
+				"Emmet: Toggle Comment"
+			],
+			[
+				"unin",
+				"Build: Android Debug Uninstall"
+			],
+			[
+				"unins",
+				"Build: Android Debug Uninstall"
+			],
+			[
+				"io",
+				"Build: iOS Emulator"
+			],
+			[
+				"enume",
+				"Build: Android Enumerate Devices"
+			],
+			[
+				"dev",
+				"Build: Android Enumerate Devices"
+			],
+			[
+				"virtu",
+				"Build: Android Virtual Device"
+			],
+			[
+				"and",
+				"Build: Android Enumerate Devices"
+			]
+		],
+		"width": 453.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/carlos/Development/MindHUB/eemra/chap/Android Project/assets/www/index.html",
+		"/Users/carlos/Development/MindHUB/eemra/chap/iOS Project/www/js/md.js",
+		"/Users/carlos/Development/MindHUB/eemra/chap/iOS Project/www/js/device.js",
+		"/Users/carlos/Development/MindHUB/eemra/chap/iOS Project/MessageDoc/MessageDoc-Info.plist",
+		"/Users/carlos/Development/MindHUB/eemra/chap/iOS Project/www/index.html",
+		"/Users/carlos/Development/MindHUB/eemra/chap/Android Project/local.properties",
+		"/Users/carlos/Development/MindHUB/eemra/chap/iOS Project/cordova/run",
+		"/Users/carlos/Development/MindHUB/eemra/chap/iOS Project/MessageDoc/config.xml",
+		"/Users/carlos/Development/MindHUB/eemra/chap/iOS Project/www/js/messagedocCache.js",
+		"/Users/carlos/Development/MindHUB/eemra/chap/iOS Project/www/js/util.js",
+		"/Users/carlos/Development/MindHUB/eemra/chap/iOS Project/www/js/config.js",
+		"/Users/carlos/Development/MindHUB/eemra/chap/Android Project/assets/www/js/nav.js",
+		"/Users/carlos/Development/MindHUB/eemra/chap/Android Project/assets/www/js/device.js",
+		"/Users/carlos/Development/MindHUB/eemra/chap/Android Project/assets/www/js/config.js",
+		"/Users/carlos/Development/MindHUB/eemra/chap/Android Project/assets/www/js/prefs.js",
+		"/Users/carlos/Development/MindHUB/eemra/chap/Android Project/assets/www/js/app.js",
+		"/Users/carlos/Development/MindHUB/eemra/chap/Android Project/assets/www/js/md.js",
+		"/Users/carlos/Development/MindHUB/eemra/chap/Android Project/src/com/eemra/messagedoc/MessageDoc.java",
+		"/Users/carlos/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/carlos/Development/MindHUB/eemra/chap/iOS Project/www/js/fileBrowser.js",
+		"/Users/carlos/Development/MindHUB/eemra/chap/Android Project/src/com/eemra/messagedoc/SimpleCrypto.java",
+		"/Users/carlos/Development/MindHUB/eemra/chap/Browser Project/www/js/md.js",
+		"/Users/carlos/Development/MindHUB/eemra/chap/iOS Project/MessageDoc/Classes/AppDelegate.m",
+		"/Users/carlos/Development/MindHUB/eemra/chap/iOS Project/build/MessageDoc.app/www/index.html",
+		"/Users/carlos/Development/MindHUB/eemra/chap/iOS Project/build/MessageDoc.build/Debug-iphonesimulator/MessageDoc.build/MessageDoc-generated-files.hmap",
+		"/Users/carlos/Development/MindHUB/eemra/chap/Browser Project/www/js/device.js",
+		"/Users/carlos/Development/MindHUB/eemra/chap/iOS Project/www/i2.html",
+		"/Users/carlos/Dropbox/Sublime/Zonkeys.sublime-project",
+		"/Users/carlos/Dropbox/Sublime/Eemra.sublime-project",
+		"/Users/carlos/Library/Application Support/Sublime Text 2/Packages/Tomorrow Color Schemes/package-metadata.json",
+		"/Users/carlos/Library/Application Support/Sublime Text 2/Packages/Tomorrow Color Schemes/README.md",
+		"/Users/carlos/Library/Application Support/Sublime Text 2/Packages/Tomorrow Color Schemes/Tomorrow.tmTheme",
+		"/Users/carlos/Library/Application Support/Sublime Text 2/Packages/Tomorrow Color Schemes/Tomorrow-Night-Eighties.tmTheme",
+		"/Users/carlos/Dropbox/Sublime/Dotfiles.sublime-project",
+		"/Users/carlos/Library/Application Support/Sublime Text 2/Packages/Tomorrow Color Schemes/Tomorrow-Night-Bright.tmTheme.cache",
+		"/Users/carlos/Development/MindHUB/eemra/chap/Browser Project/www/js/config.js",
+		"/Users/carlos/Development/MindHUB/eemra/chap/Browser Project/www/.htaccess",
+		"/Users/carlos/Development/MindHUB/eemra/chap/Android Project/.classpath",
+		"/Users/carlos/Development/MindHUB/eemra/chap/Project/src/com/eemra/messagedoc/SimpleCrypto.java",
+		"/Users/carlos/Development/MindHUB/eemra/chap/Android",
+		"/Users/carlos/Development/MindHUB/eemra/chap/Android Project/assets/www/i2.html",
+		"/Users/carlos/Development/MindHUB/eemra/chap/Android Project/assets/www/js/crypto.js",
+		"/Users/carlos/Development/MindHUB/eemra/chap/Android Project/project.properties",
+		"/Users/carlos/Development/MindHUB/eemra/chap/iOS Project/www/ccd.html",
+		"/Users/carlos/Development/MindHUB/eemra/chap/Browser Project/www/js/app.js",
+		"/Users/carlos/Development/MindHUB/eemra/chap/Android Project/libs/android-support-v4.jar",
+		"/Users/carlos/Development/MindHUB/eemra/chap/test.txt",
+		"/Users/carlos/Development/MindHUB/eemra/chap/testCommit.txt",
+		"/Users/carlos/Library/Application Support/Sublime Text 2/Settings/SideBarEnhancements.json",
+		"/Applications/XAMPP/xamppfiles/etc/php.ini",
+		"/Users/carlos/.bash_profile",
+		"/Users/carlos/.bashrc",
+		"/Applications/XAMPP/etc/httpd.conf",
+		"/Users/carlos/.vim/vimrc",
+		"/Users/carlos/Documents/Dotfiles.sublime-project",
+		"/Users/carlos/.rbenv/version",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/package.json",
+		"/Users/carlos/.tmux.conf",
+		"/Users/carlos/.tmux/status-right.sh",
+		"/Users/carlos/.tmux/segments/vcs_branch.sh",
+		"/Users/carlos/.tmux/status-left.sh",
+		"/Users/carlos/Circle/server/roland/grunt.js",
+		"/Users/carlos/Development/Projects/dulce/Gruntfile.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/assets/css/less/vendor/flexslider.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/assets/css/less/bootstrap/variables.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/assets/css/vendor/flexslider.css",
+		"/etc/hosts",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/assets/css/less/bootstrap/responsive-768px-979px.less",
+		"/Applications/XAMPP/etc/php.ini",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/assets/css/less/bootstrap/bootstrap.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/lib/init.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/front-page.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/templates/content-single.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/templates/content.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/lib/config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/lib/sidebar.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/base.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/lib/slides.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/templates/header-top-navbar.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/templates/content-home.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/grunt.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/assets/css/less/vendor/flexslider.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/single.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/assets/css/less/bootstrap/mixins.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/assets/css/less/bootstrap/reset.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/templates/content-page.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/page-slider.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/page.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/templates/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/templates/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/assets/js/_main.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/lib/rewrites.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/lib/custom.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/assets/css/less/bootstrap/responsive.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/assets/css/less/bootstrap/responsive-767px-max.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/assets/css/less/app.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/assets/js/plugins/bootstrap/bootstrap-transition.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/templates/head.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/templates/page-header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/templates/entry-meta.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/assets/css/less/bootstrap/navbar.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/lib/nav.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/assets/css/less/bootstrap/utilities.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/TODO",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/TODO.TODO",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/lib/widgets.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/lib/scripts.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/assets/css/less/bootstrap/media.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/assets/css/less/bootstrap/thumbnails.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/assets/css/less/bootstrap/dropdowns.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/assets/css/less/bootstrap/close.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/assets/css/less/bootstrap/code.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/page-custom.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/lib/scripts.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/build/helpers/md5.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/build/templates/scripts.txt",
+		"/Users/carlos/Documents/4ever.sublime-project",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/build/tasks/enqueue_ver.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/build/template/scripts.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/build/template/scripts.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/build/tasks/enqueue_ver_js.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/build/tasks/enqueue_ver_css.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/lib/cleanup.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-content/themes/ever/doc/cleanup.md",
+		"/Applications/XAMPP/xamppfiles/htdocs/4ever/wp-config.php"
+	],
+	"find":
+	{
+		"height": 53.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"*.js",
+			"",
+			"-*.css,-*.js",
+			"-*.css",
+			"",
+			"*.clj",
+			"",
+			"-*.css,-*.dieter,*.hamlc,*.less",
+			"-*.css,-*.dieter,*.hamlc",
+			"-*.css,-*.dieter,*.hamlc,*.less",
+			"-*.css,-*.dieter,*.hamlc,",
+			"-*.css,-*.dieter,-*/cache/*,*.hamlc",
+			"-*.css,-*.dieter,*.hamlc",
+			"-*.css,-*.dieter,*.famlc",
+			"-*.css,-*.dieter",
+			"-*.css",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"debugger",
+			"fileEntry",
+			"debugger",
+			"mediafiles",
+			"quality",
+			"MediaFiles",
+			"debugger",
+			"composeCapture",
+			"getPhoto",
+			"capture",
+			"uploader.upload",
+			"upload.upload",
+			"uploader.upload",
+			"upload.upload",
+			"uploader.upload",
+			"quality",
+			"quali",
+			"max",
+			"enroll",
+			"qualit",
+			"MaxUploadSiz",
+			"composeCaptu",
+			"capturephotoqua",
+			"Quality",
+			"initiali",
+			"getPhoto",
+			"capturePhotoQual",
+			"platform",
+			"CapturePhoto",
+			"capturephotoqu",
+			"opts",
+			"capturePhoto",
+			"getPhot",
+			"capture",
+			"doCaptu",
+			"capture",
+			"ios",
+			"photoqual",
+			"CapturePhotoQuali",
+			"file.siz",
+			"cache",
+			"compose",
+			"iOS Project/cordova/",
+			"/Users/Carlos/Development/MindHUB/eemra/chap/iOS\\\\ Project/cordova/",
+			"cache",
+			"ready",
+			"splash",
+			"selectmenu",
+			"showDebug",
+			"switch",
+			"trigger",
+			"changePage",
+			"gotoPag",
+			"debug",
+			"flip",
+			"theme",
+			"hello",
+			"hello world",
+			"initiali",
+			"login-mess",
+			"deviceInfo",
+			"DeviceType",
+			"//debu",
+			"settings-",
+			"goto",
+			"id=\"pr",
+			"profile-view",
+			"show unread",
+			"pageshow",
+			"enroll-prof",
+			"profi",
+			"profile",
+			"admin",
+			"changePage",
+			"goto",
+			"HideDebugContr",
+			"debug",
+			"login",
+			"boolean",
+			"messagedocc",
+			"createDirectory",
+			"fileb",
+			"init",
+			"index",
+			"webview",
+			"openall",
+			"cordova",
+			"cookie",
+			"nsurl",
+			"cache",
+			"weinre",
+			"eemra",
+			"eemra_native",
+			"callback",
+			"opts",
+			"dev.captu",
+			"doCap",
+			"dev.capt",
+			"capture:",
+			"var captur",
+			"capture∫c",
+			"capture",
+			"dev.captu",
+			"composeCapture",
+			"navigator.device.capture",
+			"source",
+			"getPhoto",
+			"Camera",
+			"setMedia",
+			"dev =",
+			"index",
+			"png",
+			"export",
+			"export.png",
+			"native",
+			"$1",
+			"crypto",
+			"Android",
+			"build_systems",
+			"'json'",
+			"json",
+			"login",
+			"extens",
+			"pear",
+			"gem",
+			"rvm",
+			"ruby",
+			"background-pos"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"../vendor/bootstrap/less",
+			"visibility: hidden",
+			"twitter-follow-template",
+			"twitter-follow-template-div",
+			"vendor/bootstrap/",
+			"import \"bootstrap/",
+			"TODO",
+			"600ms",
+			"\"",
+			"@import \"../vendor/bootstrap/",
+			""
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 159.0
+	},
+	"output.git":
+	{
+		"height": 96.0
+	},
+	"output.xdebug_inspect":
+	{
+		"height": 96.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"mdjs",
+				"iOS Project/www/js/md.js"
+			],
+			[
+				"plis",
+				"iOS Project/MessageDoc/MessageDoc-Info.plist"
+			],
+			[
+				"devicejs",
+				"iOS Project/www/js/device.js"
+			],
+			[
+				"device.js",
+				"iOS Project/www/js/device.js"
+			],
+			[
+				"index",
+				"Android Project/assets/www/index.html"
+			],
+			[
+				"md.js",
+				"iOS Project/www/js/md.js"
+			],
+			[
+				"index.",
+				"iOS Project/www/index.html"
+			],
+			[
+				"messdocac",
+				"iOS Project/www/js/messagedocCache.js"
+			],
+			[
+				"device",
+				"iOS Project/www/js/device.js"
+			],
+			[
+				"util",
+				"iOS Project/www/js/util.js"
+			],
+			[
+				"conf",
+				"iOS Project/www/js/config.js"
+			],
+			[
+				"configx",
+				"iOS Project/MessageDoc/config.xml"
+			],
+			[
+				"device.",
+				"Android Project/assets/www/js/device.js"
+			],
+			[
+				"config.j",
+				"Android Project/assets/www/js/config.js"
+			],
+			[
+				"prefs",
+				"Android Project/assets/www/js/prefs.js"
+			],
+			[
+				"inde",
+				"Android Project/assets/www/index.html"
+			],
+			[
+				"appjs",
+				"Android Project/assets/www/js/app.js"
+			],
+			[
+				"nav.js",
+				"Android Project/assets/www/js/nav.js"
+			],
+			[
+				"messageojav",
+				"Android Project/src/com/eemra/messagedoc/MessageDoc.java"
+			],
+			[
+				"indexhtml",
+				"Android Project/assets/www/index.html"
+			],
+			[
+				"simplec",
+				"Android Project/src/com/eemra/messagedoc/SimpleCrypto.java"
+			],
+			[
+				"local",
+				"Android Project/local.properties"
+			],
+			[
+				"messadocca",
+				"iOS Project/www/js/messagedocCache.js"
+			],
+			[
+				"md.j",
+				"iOS Project/www/js/md.js"
+			],
+			[
+				"config",
+				"iOS Project/MessageDoc/config.xml"
+			],
+			[
+				"config.xm",
+				"iOS Project/MessageDoc/config.xml"
+			],
+			[
+				"appdele",
+				"iOS Project/MessageDoc/Classes/AppDelegate.m"
+			],
+			[
+				"configjs",
+				"www/js/config.js"
+			],
+			[
+				"crypt",
+				"Android Project/assets/www/js/crypto.js"
+			],
+			[
+				"i2",
+				"Android Project/assets/www/i2.html"
+			],
+			[
+				"crypto",
+				"Android Project/assets/www/js/crypto.js"
+			],
+			[
+				"vimrc",
+				".vim/vimrc"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"flex",
+				"assets/css/less/vendor/flexslider.less"
+			],
+			[
+				"varia",
+				"assets/css/less/bootstrap/variables.less"
+			],
+			[
+				"init",
+				"lib/init.php"
+			],
+			[
+				"respon",
+				"assets/css/less/bootstrap/responsive-767px-max.less"
+			],
+			[
+				"sli",
+				"lib/slides.php"
+			],
+			[
+				"boot",
+				"assets/css/less/bootstrap/bootstrap.less"
+			],
+			[
+				"sideba",
+				"lib/sidebar.php"
+			],
+			[
+				"base",
+				"base.php"
+			],
+			[
+				"front-",
+				"front-page.php"
+			],
+			[
+				"slide",
+				"lib/slides.php"
+			],
+			[
+				"nav",
+				"templates/header-top-navbar.php"
+			],
+			[
+				"content-hom",
+				"templates/content-home.php"
+			],
+			[
+				"flexsl",
+				"assets/css/vendor/flexslider.css"
+			],
+			[
+				"mixins",
+				"assets/css/less/bootstrap/mixins.less"
+			],
+			[
+				"reset",
+				"assets/css/less/bootstrap/reset.less"
+			],
+			[
+				"content-sin",
+				"templates/content-single.php"
+			],
+			[
+				"singl",
+				"single.php"
+			],
+			[
+				"content",
+				"templates/content.php"
+			],
+			[
+				"content-home",
+				"templates/content-home.php"
+			],
+			[
+				"front",
+				"front-page.php"
+			],
+			[
+				"page-s",
+				"page-slider.php"
+			],
+			[
+				"rewrit",
+				"lib/rewrites.php"
+			],
+			[
+				"custom",
+				"lib/custom.php"
+			],
+			[
+				"function",
+				"functions.php"
+			],
+			[
+				"app",
+				"assets/css/less/app.less"
+			],
+			[
+				"76",
+				"assets/css/less/bootstrap/responsive-767px-max.less"
+			],
+			[
+				"bootstrtrans",
+				"assets/js/plugins/bootstrap/bootstrap-transition.js"
+			],
+			[
+				"head",
+				"templates/head.php"
+			],
+			[
+				"page-hea",
+				"templates/page-header.php"
+			],
+			[
+				"func",
+				"functions.php"
+			],
+			[
+				"side",
+				"lib/sidebar.php"
+			],
+			[
+				"reso",
+				"assets/css/less/bootstrap/responsive.less"
+			],
+			[
+				"header",
+				"templates/header.php"
+			],
+			[
+				"mixin",
+				"assets/css/less/bootstrap/mixins.less"
+			],
+			[
+				"uti",
+				"assets/css/less/bootstrap/utilities.less"
+			],
+			[
+				"appl",
+				"assets/css/less/app.less"
+			],
+			[
+				"widget",
+				"lib/widgets.php"
+			],
+			[
+				"grunt",
+				"grunt.js"
+			],
+			[
+				"media",
+				"assets/css/less/bootstrap/media.less"
+			],
+			[
+				"thum",
+				"assets/css/less/bootstrap/thumbnails.less"
+			],
+			[
+				"thumbna",
+				"assets/css/less/bootstrap/thumbnails.less"
+			],
+			[
+				"drop",
+				"assets/css/less/bootstrap/dropdowns.less"
+			],
+			[
+				"close.",
+				"assets/css/less/bootstrap/close.less"
+			],
+			[
+				"code",
+				"assets/css/less/bootstrap/code.less"
+			],
+			[
+				"script",
+				"lib/scripts.php"
+			],
+			[
+				"footer",
+				"templates/footer.php"
+			],
+			[
+				"scriptstx",
+				"lib/scripts.txt"
+			],
+			[
+				"md5",
+				"build/helpers/md5.js"
+			],
+			[
+				"style",
+				"style.css"
+			],
+			[
+				"variab",
+				"assets/css/less/bootstrap/variables.less"
+			],
+			[
+				"main",
+				"assets/js/_main.js"
+			],
+			[
+				"scrip",
+				"lib/scripts.php"
+			],
+			[
+				"boots",
+				"assets/css/less/bootstrap/bootstrap.less"
+			],
+			[
+				"clean",
+				"lib/cleanup.php"
+			],
+			[
+				"cleanu",
+				"doc/cleanup.md"
+			],
+			[
+				"foot",
+				"templates/footer.php"
+			],
+			[
+				"heade",
+				"templates/page-header.php"
+			],
+			[
+				"jsh",
+				"backbone-tutorials/.jshintrc"
+			],
+			[
+				"jshint",
+				"backbone-tutorials/.jshintrc"
+			],
+			[
+				"gruntf",
+				"Gruntfile.js"
+			],
+			[
+				"home",
+				"views/outer/home/home.hamlc"
+			],
+			[
+				"routc",
+				"http/routes.clj"
+			],
+			[
+				"outerco",
+				"js/outer.coffee"
+			],
+			[
+				"cont",
+				"http/content.clj"
+			],
+			[
+				"priva",
+				"views/outer/privacy/privacy.hamlc"
+			],
+			[
+				"contacl",
+				"css/outer/about/contact.less"
+			],
+			[
+				"titlele",
+				"css/shared/blocks/title.less"
+			],
+			[
+				"outecl",
+				"http/outer.clj"
+			],
+			[
+				"common",
+				"http/common.clj"
+			],
+			[
+				"team",
+				"css/outer/about/team.less"
+			],
+			[
+				"contentles",
+				"css/outer/about/content.less"
+			],
+			[
+				"conten",
+				"http/content.clj"
+			],
+			[
+				"about",
+				"views/outer/about/about.hamlc"
+			],
+			[
+				"font",
+				"vendor/font-awesome/less/font-awesome.less"
+			],
+			[
+				"footer.l",
+				"css/shared/blocks/footer.less"
+			],
+			[
+				"power",
+				"css/outer/home/power.less"
+			],
+			[
+				"testimon",
+				"css/outer/home/testimonials.less"
+			],
+			[
+				"homeha",
+				"views/outer/home/home.hamlc"
+			],
+			[
+				"outer",
+				"js/outer.js.dieter"
+			],
+			[
+				"outerdi",
+				"js/outer.js.dieter"
+			],
+			[
+				"teaser",
+				"css/outer/home/teaser.less"
+			],
+			[
+				"bootst",
+				"vendor/bootstrap/less/bootstrap.less"
+			],
+			[
+				"variable",
+				"css/vendor/bootstrap/variables.less"
+			],
+			[
+				"featuresle",
+				"css/outer/home/features.less"
+			],
+			[
+				"norma",
+				"css/shared/normalize.less"
+			],
+			[
+				"oute.cl",
+				"http/outer.clj"
+			],
+			[
+				"outerle",
+				"css/outer.less"
+			],
+			[
+				"innerles",
+				"css/inner/inner.less"
+			],
+			[
+				"features",
+				"css/outer/home/features.less"
+			],
+			[
+				"kissm",
+				"direct/kissmetrics-tests.js"
+			],
+			[
+				"innerle",
+				"css/inner/inner.less"
+			],
+			[
+				"outerjs",
+				"js/outer.js.dieter"
+			],
+			[
+				"comm",
+				"http/common.clj"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 174.0,
+	"status_bar_visible": true
+}
