@@ -20,10 +20,7 @@ This is the result of pagespeed modifications applied to the arkusnexus website.
 >[_**Site Speed - Are You Fast? Does it Matter for SEO?**_][SEOMOZ]
 
 ## Where does that put ArkusNexus?
-
-  |Load Time|Requests|First Byte|Start Render|DOM Elements
- First View|6.204s|69|2.813s|4.319s|256
- Repeat View|0.879s|2|0.906s|0.935s|256|
+![WebPageTest](https://dl.dropboxusercontent.com/u/2906909/arkus-pagespeed/WPT.png)
  
 ## Observations
 - jQuery should be loaded from CDN - [Why should I use Google's CDN for jQuery?][JQCDN]
@@ -37,21 +34,6 @@ This is the result of pagespeed modifications applied to the arkusnexus website.
 - Images are not combined into sprite - [http://css-tricks.com/css-sprites/][SPRITES]
 - Images are not optimized - [Minimize Payload Size - Optimize Images][IMG]
 - Static resources should not use query strings - [Leverage proxy caching][QUERY]
-
-## Tasks
-- [ ] Concatenate scripts
-- [ ] Concatenate stylesheets
-- [ ] Minify script
-- [ ] Minify stylesheet
-- [ ] Move scripts to footer
-- [ ] Load jQuery from CDN
-- [ ] Use local fallback for CDN jQuery
-- [ ] Enable gzip compression
-- [ ] Create spritesheet
-- [ ] Optimize images
-- [ ] Set expire headers
-- [ ] Remove query strings
-- [ ] Use MD5 for cachebusting
 
 =====================================
 ### Colophon
