@@ -58,6 +58,7 @@ This is the result of pagespeed modifications applied to the arkusnexus website.
 
 ### Contributors
 - Jose Guadalupe Cornejo Leyva
+- Alejandro Figueroa Gastelum
 
 [ALA]: http://alistapart.com/article/improving-ux-through-front-end-performance
 [SEOMOZ]: http://www.seomoz.org/blog/site-speed-are-you-fast-does-it-matter
