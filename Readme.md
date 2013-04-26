@@ -31,7 +31,7 @@ This is the result of pagespeed modifications applied to the arkusnexus website.
 - CSS and JS are not minified - [The Importance of Minifying your CSS and JavaScript][MINI]
 - CSS should not use @import - [Best Practices - Avoid CSS @import][IMPORT]
 - Gzip is not being used - [GZIP Compression Techniques for Better Page Speeds][GZIP]
-- Images are not combined into sprite - [http://css-tricks.com/css-sprites/][SPRITES]
+- Images are not combined into sprite - [CSS Sprites: What They Are, Why They’re Cool, and How To Use Them][SPRITES]
 - Images are not optimized - [Minimize Payload Size - Optimize Images][IMG]
 - Static resources should not use query strings - [Leverage proxy caching][QUERY]
 
