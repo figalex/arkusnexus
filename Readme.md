@@ -56,6 +56,9 @@ This is the result of pagespeed modifications applied to the arkusnexus website.
 [`WebPageTest`](http://webpagetest.com/)
 [`mod_rewrite`](http://httpd.apache.org/docs/current/mod/mod_rewrite.html)
 
+### Contributors
+- Jose Guadalupe Cornejo Leyva
+
 [ALA]: http://alistapart.com/article/improving-ux-through-front-end-performance
 [SEOMOZ]: http://www.seomoz.org/blog/site-speed-are-you-fast-does-it-matter
 [JQCDN]: http://stackoverflow.com/a/2180401
